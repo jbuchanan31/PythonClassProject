@@ -1,0 +1,2 @@
+# PythonClassProject
+Weekly Sales Project
