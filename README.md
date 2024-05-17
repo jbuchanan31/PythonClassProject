@@ -1,5 +1,7 @@
 # PythonClassProject
+
 Weekly Sales Project
+This is a simple Python program that asks the user to enter a store's sales for each day of the week. The sales amounts are stored in a list, and the program calculates the total sales for the week and displays the result. 
 
 My name is Joshua.
 I am currently a Cyberscurity student who is looking to get into IT.  
